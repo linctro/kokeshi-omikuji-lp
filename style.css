@@ -34,7 +34,7 @@ body {
 }
 
 .logo {
-    font-size: 1.5rem;
+    font-size: 2.0rem;
     font-weight: 700;
     color: var(--text-color);
     margin: 0;
@@ -638,4 +638,5 @@ body {
     color: var(--secondary-color);
     border-top: 1px solid rgba(0, 0, 0, 0.05);
     background-color: #fdfcf5;
+
 }
